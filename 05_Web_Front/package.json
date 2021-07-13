@@ -101,7 +101,7 @@
   },
   "engines": {
     "node": "14.x",
-    "npm": ">= ^3.0.0"
+    "modules": ">= ^3.0.0"
   },
   "browserslist": [
     "> 1%",
